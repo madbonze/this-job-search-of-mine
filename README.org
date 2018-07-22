@@ -1,0 +1,9 @@
+* This^job search of mine
+
+TSOM helps you with your job search by assisting you to approach your search in
+a more methodical manner.
+
+This MVP shall include:
+
+- Add a company where you want to give an interview, or have given an interview
+- Add job openings(s) for which you want to apply or did apply
